@@ -1,0 +1,76 @@
+*{
+    font-family: 'cwTeXYen';
+    font-weight: 700;
+}
+.background{
+background-color: #E4F0B3;
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1194px;
+height: 834px;
+}
+
+.tittle{
+    color: white;
+    font-size: 52px;
+    position: absolute;
+    top: 26px;
+    left: 150px;
+}
+.lastPage{
+    position: absolute;
+    left: 27px;
+    top: 74px;    
+}
+.home{
+    position: absolute;
+    left: 1068px;
+    top: 74px;    
+}
+.teeth{
+    position: absolute;
+    left: 23px;
+    top: 220px;
+}
+.conversation{
+    color: rgb(109, 109, 109);
+    font-size: 35px;
+    position: absolute;
+    top: 288px;
+    left: 555px;
+    letter-spacing: 1px;
+}
+.downtittle{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    position: absolute;
+    top: 670px;
+    left: 490px;
+    letter-spacing: 1px;
+}
+.teeth1{
+    position: absolute;
+    left: 190px;
+    top: 238px;
+}
+.teeth2{
+    position: absolute;
+    left: 211px;
+    top: 268px;
+}
+.teeth3{
+    position: absolute;
+    left: 239px;
+    top: 330px;
+}
+.teeth4{
+    position: absolute;
+    left: 143px;
+    top: 370px;
+}
+.teeth5{
+    position: absolute;
+    left: 143px;
+    top: 360px;
+}
