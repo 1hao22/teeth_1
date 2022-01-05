@@ -73,4 +73,5 @@ height: 834px;
     position: absolute;
     left: 143px;
     top: 360px;
+    z-index: 1000;
 }
